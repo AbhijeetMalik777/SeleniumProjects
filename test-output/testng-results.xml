@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-09T13:46:30 IST" name="Default suite" finished-at="2024-01-09T13:46:42 IST" duration-ms="11678">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T13:46:30 IST" name="Default test" finished-at="2024-01-09T13:46:42 IST" duration-ms="11678">
+      <class name="Package_Selenium.dataProvider">
+        <test-method signature="testcaseData(java.lang.String,java.lang.String)[pri:0, instance:Package_Selenium.dataProvider@536f2a7e]" started-at="2024-01-09T13:46:31 IST" name="testcaseData" data-provider="testData" finished-at="2024-01-09T13:46:39 IST" duration-ms="7158" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AbhijeetMalik]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseData -->
+        <test-method signature="testcaseData(java.lang.String,java.lang.String)[pri:0, instance:Package_Selenium.dataProvider@536f2a7e]" started-at="2024-01-09T13:46:39 IST" name="testcaseData" data-provider="testData" finished-at="2024-01-09T13:46:42 IST" duration-ms="3476" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AbhijeetMalik001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1212]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcaseData -->
+      </class> <!-- Package_Selenium.dataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
